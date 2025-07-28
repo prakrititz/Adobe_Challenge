@@ -28,6 +28,8 @@ Build a system that ingests any PDF and automatically extracts a structured outl
 ### Solution Approach
 Multi-stage analysis pipeline that decodes a document's visual language:
 
+![Round 1A Solution Architecture](1a_solution/git_1a.png)
+
 1. **Noise Cancellation**: Using PyMuPDF to identify and strip irrelevant content (tables, headers, footers)
 2. **Typographic Analysis**: Statistical analysis of font styles to identify primary "body text" style
 3. **Visual Hierarchy Mapping**: Deviation from body style indicates potential headings, mapped to logical hierarchy using font size, weight, and indentation
@@ -78,6 +80,8 @@ Build an intelligent analyst that processes document collections and extracts re
 
 ### Solution: The Verification Gauntlet
 Multi-stage verification approach optimized for small, offline models:
+
+![Round 1B Solution Architecture](1b_solution/git_1b.png)
 
 1. **Broad Semantic Search**: all-MiniLM-L6-v2 embeddings for initial relevance pool
 2. **Keyword Elimination**: Fast filtering for hard constraints (e.g., dietary restrictions)
