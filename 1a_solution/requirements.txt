@@ -1,0 +1,4 @@
+PyMuPDF
+fasttext
+requests
+tqdm
