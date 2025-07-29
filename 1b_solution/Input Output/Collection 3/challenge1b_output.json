@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Breakfast Ideas.pdf",
+            "Dinner Ideas - Mains_1.pdf",
+            "Dinner Ideas - Mains_2.pdf",
+            "Dinner Ideas - Mains_3.pdf",
+            "Dinner Ideas - Sides_1.pdf",
+            "Dinner Ideas - Sides_2.pdf",
+            "Dinner Ideas - Sides_3.pdf",
+            "Dinner Ideas - Sides_4.pdf",
+            "Lunch Ideas.pdf"
+        ],
+        "persona": "Food Contractor",
+        "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+        "processing_timestamp": "2025-07-29T13:08:54.286217"
+    },
+    "extracted_sections": [
+        {
+            "document": "Lunch Ideas.pdf",
+            "section_title": "Relevant Document Section",
+            "importance_rank": 1,
+            "page_number": 14
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "section_title": "Relevant Document Section",
+            "importance_rank": 2,
+            "page_number": 6
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "section_title": " 1 pound ground beef  1/2 pound ground pork  1 small onion, diced...",
+            "importance_rank": 3,
+            "page_number": 14
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "section_title": " Shredded lettuce, diced tomatoes, shredded cheese, sour cream, and salsa for toppings Instructions: ...",
+            "importance_rank": 4,
+            "page_number": 5
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "section_title": "o Serve as a dip or side dish",
+            "importance_rank": 5,
+            "page_number": 15
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Lunch Ideas.pdf",
+            "refined_text": "• 1/4 cup spinach, chopped • 1/4 cup shredded carrots • 1 tablespoon tahini • 1 tablespoon lemon juice • Salt and pepper to taste Instructions: • In a bowl, combine the mashed chickpeas, spinach, carrots, tahini, and lemon juice. • Season with salt and pepper. • Lay the tortilla flat and spread the mixture evenly. • Roll up the tortilla tightly and slice in half. Turkey and Apple Sandwich Ingredients: • 2 slices whole grain bread • 4 slices turkey breast • 1/2 apple, thinly sliced • 1/4 cup baby spinach • 1 tablespoon mustard or mayo Instructions: • Spread mustard or mayo on one slice of bread. • Layer the turkey, apple slices, and spinach on top. • Top with the second slice of bread and cut in half. Mediterranean Tuna Salad Ingredients: • 1 can tuna, drained • 1/4 cup cherry tomatoes, halved • 1/4 cup cucumber, diced • 1/4 cup black olives, sliced • 1/4 cup feta cheese, crumbled • 2 tablespoons olive oil • 1 tablespoon lemon juice • Salt and pepper to taste Instructions: • In a bowl, combine the tuna, tomatoes, cucumber, olives, and feta cheese. • Drizzle with olive oil and lemon juice. • Season with salt and pepper, then toss to combine.",
+            "page_number": 14
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "refined_text": "• 1 cup cooked chicken breast, diced • 1/2 avocado, diced • 1/4 cup cherry tomatoes, halved • 1/4 cup red onion, finely chopped • 2 tablespoons olive oil • 1 tablespoon lemon juice • Salt and pepper to taste Instructions: • In a bowl, combine the chicken, avocado, tomatoes, and red onion. • Drizzle with olive oil and lemon juice. • Season with salt and pepper, then toss to combine. Turkey and Cheese Roll-Ups Ingredients: • 4 slices turkey breast • 4 slices cheese (such as cheddar or Swiss) • 1/2 cup baby spinach • 1/4 cup hummus Instructions: • Lay a slice of turkey flat and spread with hummus. • Place a slice of cheese and a few spinach leaves on top. • Roll up tightly and repeat with remaining ingredients. Mediterranean Chickpea Salad Ingredients: • 1 can chickpeas, drained and rinsed • 1/2 cup cherry tomatoes, halved • 1/2 cucumber, diced • 1/4 cup red onion, finely chopped • 1/4 cup feta cheese, crumbled • 2 tablespoons olive oil • 1 tablespoon lemon juice • Salt and pepper to taste Instructions: • In a large bowl, combine the chickpeas, tomatoes, cucumber, red onion, and feta cheese. • Drizzle with olive oil and lemon juice. • Season with salt and pepper, then toss to combine.",
+            "page_number": 6
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "refined_text": " 1 pound ground beef  1/2 pound ground pork  1 small onion, diced  2 cloves garlic, minced  1/2 cup breadcrumbs  1/4 cup milk  1 egg, beaten  1/4 cup ketchup  1 tablespoon Worcestershire sauce  1 teaspoon salt  1/2 teaspoon pepper Instructions:  Preheat oven to 350°F (175°C).  In a large bowl, mix ground beef, ground pork, diced onion, minced garlic, breadcrumbs, milk, beaten egg, ketchup, Worcestershire sauce, salt, and pepper.  Shape the mixture into a loaf and place in a baking dish.  Bake for 1 hour until cooked through.  Let rest before slicing and serving. Paella Ingredients:  1/2 pound chicken breast, cubed  1/2 pound shrimp, peeled and deveined  1/2 pound mussels, cleaned  1 small onion, diced  2 cloves garlic, minced  1 bell pepper, diced  1 cup short-grain rice  2 cups chicken broth  1/2 cup white wine  1/4 cup olive oil  1 teaspoon saffron  1 teaspoon paprika  Salt and pepper to taste  Lemon wedges for garnish Instructions:  In a large skillet, heat olive oil over medium heat.  Cook cubed chicken until browned, then set aside.  In the same skillet, sauté diced onion, minced garlic, and diced bell pepper until softened.  Stir in rice, chicken broth, white wine, saffron, paprika, salt, and pepper.  Bring to a boil, then reduce heat and simmer for 15 minutes.",
+            "page_number": 14
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "refined_text": " Shredded lettuce, diced tomatoes, shredded cheese, sour cream, and salsa for toppings Instructions:  In a skillet, cook ground beef over medium heat until browned.  Add diced onion and minced garlic, sauté until softened.  Stir in taco seasoning and water, simmer until thickened.  Serve beef mixture in taco shells or tortillas with desired toppings. Lasagna Ingredients:  1 pound ground beef  1 small onion, diced  2 cloves garlic, minced  1 jar (24 ounces) marinara sauce  1 can (15 ounces) ricotta cheese  1 egg  1/4 cup grated Parmesan cheese  1 teaspoon dried basil  1 teaspoon dried oregano  9 lasagna noodles, cooked  2 cups shredded mozzarella cheese Instructions:  Preheat oven to 375°F (190°C).  In a skillet, cook ground beef, diced onion, and minced garlic until browned.  Stir in marinara sauce and simmer for 10 minutes.  In a bowl, mix ricotta cheese, egg, grated Parmesan cheese, basil, and oregano.  Spread a thin layer of meat sauce in a baking dish.  Layer with 3 lasagna noodles, 1/3 of the ricotta mixture, 1/3 of the meat sauce, and 1/3 of the shredded mozzarella cheese.  Repeat layers twice more.  Cover with foil and bake for 25 minutes.  Remove foil and bake for an additional 25 minutes until cheese is melted and bubbly.  Let stand for 10 minutes before serving. Chicken Alfredo Ingredients:  4 boneless, skinless chicken breasts  1 pound fettuccine  1 cup heavy cream  1/2 cup grated Parmesan cheese  1/4 cup butter",
+            "page_number": 5
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "refined_text": "o Serve as a dip or side dish. Som Tum (Green Papaya Salad)  Ingredients: o 1 green papaya o 2 tomatoes o 1 carrot o 2 cloves garlic o 2 tablespoons fish sauce o 2 tablespoons lime juice o 1 tablespoon sugar o 1 tablespoon peanuts o 1-2 Thai chilies  Instructions: o Peel and shred green papaya and carrot. o Crush garlic and chilies in a mortar and pestle. o Add fish sauce, lime juice, and sugar, mix well. o Toss shredded papaya, carrot, and sliced tomatoes with the dressing. o Garnish with crushed peanuts and serve. Sopa de Tortilla  Ingredients: o 4 corn tortillas o 1 tablespoon vegetable oil o 1 small onion o 2 cloves garlic o 4 cups chicken broth o 2 tomatoes o 1 teaspoon cumin o 1 avocado o 1/4 cup cilantro  Instructions: o Cut tortillas into strips and fry in oil until crispy. o Sauté diced onion and minced garlic in a pot until translucent. o Add diced tomatoes and cumin, cook for 5 minutes. o Pour in chicken broth and bring to a boil. o Simmer for 10 minutes. o Serve soup topped with tortilla strips, diced avocado, and chopped cilantro.",
+            "page_number": 15
+        }
+    ]
+}

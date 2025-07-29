@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Learn Acrobat - Create and Convert_1.pdf",
+            "Learn Acrobat - Create and Convert_2.pdf",
+            "Learn Acrobat - Edit_1.pdf",
+            "Learn Acrobat - Edit_2.pdf",
+            "Learn Acrobat - Export_1.pdf",
+            "Learn Acrobat - Export_2.pdf",
+            "Learn Acrobat - Fill and Sign.pdf",
+            "Learn Acrobat - Generative AI_1.pdf",
+            "Learn Acrobat - Generative AI_2.pdf",
+            "Learn Acrobat - Request e-signatures_1.pdf",
+            "Learn Acrobat - Request e-signatures_2.pdf",
+            "Learn Acrobat - Share_1.pdf",
+            "Learn Acrobat - Share_2.pdf",
+            "Test Your Acrobat Exporting Skills.pdf",
+            "The Ultimate PDF Sharing Checklist.pdf"
+        ],
+        "persona": "HR professional",
+        "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+        "processing_timestamp": "2025-07-29T13:08:40.755854"
+    },
+    "extracted_sections": [
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Types of PDF forms",
+            "importance_rank": 1,
+            "page_number": 2
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "section_title": "Relevant Document Section",
+            "importance_rank": 2,
+            "page_number": 19
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "section_title": "Set privileges and permissions for others",
+            "importance_rank": 3,
+            "page_number": 21
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "section_title": "For details on the full range of configuration options in enterprise settings, see the Digital...",
+            "importance_rank": 4,
+            "page_number": 25
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_2.pdf",
+            "section_title": "For a list and explanation of each warning, see the DigSig Admin Guide",
+            "importance_rank": 5,
+            "page_number": 10
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "refined_text": "Types of PDF forms • Interactive forms: These contain fields that you can select and fill in. • Flat forms: These do not have interactive fields. It could be a paper form or PDF that hasn’t been optimized for form filling. The Fill & Sign tool automatically detects the form fields like text fields, comb fields, checkboxes, and radio buttons. You can manually add text and other symbols anywhere on the form using the Fill & Sign tool if required. You can complete the forms by entering information and adding your signatures. Acrobat also allows you to send your completed forms to others and securely save them in Adobe cloud storage. Fill and sign PDF forms To complete and sign PDF forms, open the form in Acrobat and then select E-Sign from the global bar. Alternatively, you can select All tools > Fill & Sign. It displays the Fill & Sign tools in the left pane. You can now fill in the form fields and sign the form using the sign tools described in the following topics. To fill text fields: 1. From the left panel, select Fill in form fields , and then select the field where you want to add text. It displays a text field along with a toolbar. 2. Select the text field again and enter your text. 3. To reposition the text box to align it with the text field, select the textbox and hover over it. Once you see a plus icon with arrows, move the textbox to the desired position. 4. To edit the text, select the text box. Once you see the cursor and keypad, edit the text and then click elsewhere to enter. 5. To change the text size, select A or A as required.",
+            "page_number": 2
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "refined_text": "• Download Form Field Data - Downloads a CSV file of the field-level content for all child agreements spawned from this parent Bulk Send that have been completed. • Download Individual Files - Provides the option to download the individual PDF files if multiple files were used to create the web form. • Hide/Unhide Bulk Send- Hide/Unhiding the Bulk Send simply removes (or adds) the Bulk Send from your normal Manage page view. • Share - Shares the Bulk Send along with its status with the user email you provide. Shared web forms can be viewed on the Manage page, but do not allow editing. • A PDF copy of the Bulk Send parent document (without added fields) is emailed to the sharee. • View Activity Report • View the current status of all child agreements created by the Bulk Send parent template. • Add Notes - Allows the user to make personal notes for the Bulk Send. • Agreements summary/filter (green square) - The Agreements section shows up to five values that reflect the number of child agreements in each status. If no child agreements are in a given status, the status is not exposed, so you may see fewer than five line items. Clicking any one status will produce a filter list of those child agreements: • All - Shows all (child) agreements that have spawned from the Bulk Send (parent template). • In Progress - Indicates that the child agreement is waiting for the participant to complete their signature. • Canceled - Indicates that either the sender explicitly canceled the child agreement, or the participant declined to sign. • Completed - Completed agreements have successfully obtained all signatures from all participants on the agreement. • Waiting for You - Indicates that the agreement is waiting for the sender to countersign the agreement. • Activity for the Bulk Send parent template (orange square) - The Activity > link at the bottom of the context panel opens a chronological list of the enablement actions taken against the (parent) Bulk Send template (eg: Creation",
+            "page_number": 19
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "refined_text": "Set privileges and permissions for others • Certify a document while leaving portions of it available for form filling, signatures, or comments • Use Acrobat Pro software to enable users of Reader 9 or later to sign with certificate IDs • Use Acrobat Standard or Pro to encrypt a PDF document with a certificate ID to restrict usage such as printing, editing, or copying What if my organization isn’t prepared to set up certificate- based signatures? Consider signing up for Adobe Acrobat Sign online, the leader in e-signatures and web contracting. With Acrobat Sign, you can get PDF, Microsoft Word, and other documents sent, signed, and filed instantly. And best of all, Adobe hosts it securely, so your IT department doesn’t have to do the work of setting up a signature infrastructure. Resources Adobe Approved Trust List (AATL): The Adobe Approved Trust List is a program that allows millions of users worldwide to create digital signatures that are trusted whenever the signed document is opened in Acrobat or Reader software. Check out the current members. Adobe Security and Privacy Portal: A good first stop for all things security and privacy at Adobe. Certified Document Services: Certified Document Services (CDS) was the predecessor to the AATL. Content Security Library: Extensive documentation on Adobe certificate signature administration. Managing Digital IDs: Help pages for digital ID management. A certificate-based signature, like a conventional handwritten signature, identifies the person signing a document. Unlike a handwritten signature, a certificate-based signature is difficult to forge because it contains encrypted information that is unique to the signer. It can be easily verified and informs recipients whether the document was modified after the signer initially signed it. To sign a document with a certificate-based signature, you must obtain a digital ID or create a self-signed digital ID in Acrobat or Acrobat Reader. The digital ID contains a private key and",
+            "page_number": 21
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "refined_text": "For details on the full range of configuration options in enterprise settings, see the Digital Signatures Guide. • Choose a signature type. Learn about approval and certification signatures to determine the type you should choose to sign your document. (See Signature types.) Set signing preferences Signing workflow preferences control what you can see and do when the signing dialog box opens. You can allow certain actions, hide and display data fields, and change how content affects the signing process. Setting signing preferences impacts your ability to see what you are signing. For information on the available signing preferences, see “Signing Workflow Preferences” in the Digital Signature Guide. Customizing signature workflows using seed values Seed values offer additional control to document authors by letting them specify which choices signers can make when signing a document. By applying seed values to signature fields in unsigned PDFs, authors can customize options and automate tasks. They can also specify signature requirements for items such as certificates and timestamp servers. For more information about customizing signatures using seed values, see the Digital Signature Guide. Create the appearance of a certificate-based signature You determine the look of your certificate-based signature by selecting options in the Signatures panel of the Preferences dialog box. For example, you can include an image of your handwritten signature, a company logo, or a photograph. You can also create different signatures for different purposes. For some, you can provide a greater level of detail. A signature can also include information that helps others verify your signature , such as the reason for signing, contact information, and more. 1. (Optional) If you want to include an image of your handwritten signature in the certificate-based signature, scan your signature, and save it as an image file. Place the image in a document by itself, and convert the document to PDF.",
+            "page_number": 25
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_2.pdf",
+            "refined_text": "For a list and explanation of each warning, see the DigSig Admin Guide. XML data signatures Acrobat and Acrobat Reader support XML data signatures that are used to sign data in XML Forms Architectures (XFA) forms. The form author provides XML signing, validating, or clearing instructions for form events, such as button click, file save, or submit. XML data signatures conform to the W3C XML-Signature standard. Like PDF digital signatures, XML digital signatures ensure integrity, authentication, and non-repudiation in documents. However, PDF signatures have multiple data verification states. Some states are called when a user alters the PDF-signed content. In contrast, XML signatures only have two data verification states, valid and invalid. The invalid state is called when a user alters the XML-signed content. Establish long-term signature validation Long-term signature validation allows you to verify the signature's validity long after the document was signed. To achieve this, all the necessary elements for signature validation must be embedded in the signed PDF. These elements can be embedded during the document signing process or added afterward. If certain information is not included in the PDF, the signature can only be validated for a limited time because certificates related to the signature eventually expire or are revoked. When a certificate expires, the issuing authority is no longer responsible for providing revocation status, rendering the signature unverifiable. The necessary elements for signature validity include the signing certificate chain, certificate revocation status, and possibly a timestamp. If these elements are embedded during signing, the signature can be validated without requiring external resources. Acrobat and Acrobat Reader can embed the necessary elements if available, and the PDF creator must enable usage rights for Acrobat Reader users by going to the hamburger menu (Windows) or the Acrobat menu (macOS) > Save as other > Acrobat Read",
+            "page_number": 10
+        }
+    ]
+}
